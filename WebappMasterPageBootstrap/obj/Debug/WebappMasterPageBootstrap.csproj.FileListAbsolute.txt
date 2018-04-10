@@ -1,0 +1,9 @@
+C:\Users\Unicomfacauca\source\repos\WebappMasterPageBootstrap\WebappMasterPageBootstrap\bin\WebappMasterPageBootstrap.dll.config
+C:\Users\Unicomfacauca\source\repos\WebappMasterPageBootstrap\WebappMasterPageBootstrap\bin\WebappMasterPageBootstrap.dll
+C:\Users\Unicomfacauca\source\repos\WebappMasterPageBootstrap\WebappMasterPageBootstrap\bin\WebappMasterPageBootstrap.pdb
+C:\Users\Unicomfacauca\source\repos\WebappMasterPageBootstrap\WebappMasterPageBootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Unicomfacauca\source\repos\WebappMasterPageBootstrap\WebappMasterPageBootstrap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Unicomfacauca\source\repos\WebappMasterPageBootstrap\WebappMasterPageBootstrap\obj\Debug\WebappMasterPageBootstrap.csproj.CoreCompileInputs.cache
+C:\Users\Unicomfacauca\source\repos\WebappMasterPageBootstrap\WebappMasterPageBootstrap\obj\Debug\WebappMasterPageBootstrap.dll
+C:\Users\Unicomfacauca\source\repos\WebappMasterPageBootstrap\WebappMasterPageBootstrap\obj\Debug\WebappMasterPageBootstrap.pdb
+C:\Users\Unicomfacauca\source\repos\WebappMasterPageBootstrap\WebappMasterPageBootstrap\obj\Debug\WebappMasterPageBootstrap.csprojResolveAssemblyReference.cache
